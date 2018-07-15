@@ -49,6 +49,10 @@ header h1 {
     margin-top: 10px;
     color: #FFF;
 }
+header h1 a {
+    text-decoration: none;
+    color: #FFF;
+}
 
 header h1 span {
     visibility: hidden;
@@ -147,6 +151,10 @@ section#depoimento p {
     font-size: 24px;
     width: 80%;
     text-align: center;
+}
+section#depoimento a {
+    text-decoration: none;
+    color: #000;
 }
 section#depoimento img {
     border-radius: 70px;
