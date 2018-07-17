@@ -65,7 +65,7 @@ header nav li {
 }
 
 header nav li:last-child {
-    border: 1px solid #fff;
+    border: 1px solid #FFF;
     border-radius: 3px;
     padding: 10px 30px 10px 30px;
 }
@@ -159,6 +159,7 @@ section#depoimento a {
 section#depoimento img {
     border-radius: 70px;
 }
+
 
 
 
@@ -267,4 +268,3 @@ footer .container {
         text-align: center;
         width: 80%;
     }
-} 
