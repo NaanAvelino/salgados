@@ -159,6 +159,9 @@ section#depoimento a {
 section#depoimento img {
     border-radius: 70px;
 }
+section#depoimento img:hover {
+    cursor:pointer;
+}
 
 
 
